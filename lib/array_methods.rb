@@ -4,8 +4,8 @@
 
 
 def find_element_index(array, value_to_find)
-  5.times do |index|
-    puts |index|
+  5.times do index
+    puts index
 end
 
 
