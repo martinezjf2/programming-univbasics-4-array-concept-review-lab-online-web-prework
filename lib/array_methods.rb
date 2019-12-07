@@ -12,7 +12,8 @@ end
 
 
 def find_max_value(array)
-  # Add your solution here
+  5.times do |index|
+    puts index
 end
 
 
