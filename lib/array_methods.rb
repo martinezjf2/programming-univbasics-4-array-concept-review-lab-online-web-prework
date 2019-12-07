@@ -4,7 +4,7 @@
 
 
 def find_element_index(array, value_to_find)
-  return find_element_index
+  return index
 end
 
 
